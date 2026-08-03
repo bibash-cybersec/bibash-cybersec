@@ -87,7 +87,7 @@
 
 ---
 
-# ## 🏆 TryHackMe Progress
+## 🏆 TryHackMe Progress
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 </a>
