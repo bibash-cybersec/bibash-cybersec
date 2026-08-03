@@ -87,11 +87,9 @@
 
 ---
 
-# 📫 Connect With Me
+# ## 🏆 TryHackMe Progress
 
-<p align="left">
-<a href="https://github.com/bibashgaire">
-<img src="https://img.shields.io/badge/GitHub-bibashgaire-black?style=for-the-badge&logo=github">
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 </a>
 </p>
 
