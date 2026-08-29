@@ -89,8 +89,21 @@
 
 ## 🏆 TryHackMe Progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
-</a>
+<p align="center">
+  <a href="https://tryhackme.com/p/bibashgaire">
+    <img
+      src
+="./assets/tryhackme_badge.png"
+      alt="Bibash Gaire TryHackMe Progress"
+      width="600"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/bibashgaire">
+    🔗 View my TryHackMe profile
+  </a>
 </p>
 
 ---
