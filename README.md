@@ -71,6 +71,7 @@
 # 📚 Learning Platforms
 
 - TryHackMe
+- Overthewire
 - Hack The Box
 - PortSwigger Web Security Academy
 - OWASP
