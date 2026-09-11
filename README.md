@@ -95,6 +95,14 @@
 
 ---
 
+
+## 🎓 Certifications
+
+- **Google Cybersecurity Professional Certificate**  
+  Google | Coursera | Completed October 14, 2025  
+  [View Credential](https://coursera.org/share/4c20094c3f2e6088361dec9d28468ec9)
+
+---  
 ## 🏆 TryHackMe Progress
 
 
@@ -105,13 +113,5 @@ Completed Rooms:
 - Linux Fundamentals Part 1
 - Windows Fundamentals 1
 - Windows Fundamentals 2
-
-### Current Focus
-
-🔄 Linux Fundamentals
-
-🔄 Networking Fundamentals
-
-🔄 SOC Level 1
 
 ---
