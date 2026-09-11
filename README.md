@@ -51,9 +51,16 @@
 
 # 🧰 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,github,vscode" />
-</p>
+### 🛠️ Security Tools
+
+| Category | Tools |
+|---|---|
+| Recon | Nmap, Gobuster |
+| Web Security | Burp Suite |
+| Network Analysis | Wireshark |
+| OS | Kali Linux, Ubuntu, Windows |
+| Scripting | Python, Bash |
+
 
 ---
 
@@ -90,21 +97,21 @@
 
 ## 🏆 TryHackMe Progress
 
-<p align="center">
-  <a href="https://tryhackme.com/p/bibashgaire">
-    <img
-      src
-="./assets/tryhackme_badge.png"
-      alt="Bibash Gaire TryHackMe Progress"
-      width="600"
-    />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/bibashgaire">
-    🔗 View my TryHackMe profile
-  </a>
-</p>
+Completed Rooms:
+- Offensive Security Intro
+- Defensive Security Intro
+- Careers in Cyber
+- Linux Fundamentals Part 1
+- Windows Fundamentals 1
+- Windows Fundamentals 2
+
+### Current Focus
+
+🔄 Linux Fundamentals
+
+🔄 Networking Fundamentals
+
+🔄 SOC Level 1
 
 ---
