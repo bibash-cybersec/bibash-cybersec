@@ -49,9 +49,7 @@
 
 ---
 
-# 🧰 Tools & Technologies
-
-### 🛠️ Security Tools
+# 🛠️ Security Tools
 
 | Category | Tools |
 |---|---|
