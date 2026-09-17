@@ -49,16 +49,24 @@
 
 ---
 
-# 🛠️ Security Tools
+## 🛠️ Security Tools
 
-| Category | Tools |
-|---|---|
-| Recon | Nmap, Gobuster |
-| Web Security | Burp Suite |
-| Network Analysis | Wireshark |
-| OS | Kali Linux, Ubuntu, Windows |
-| Scripting | Python, Bash |
+| Category | Tools | Practical Work |
+|---|---|---|
+| 🔎 Reconnaissance | Nmap, Gobuster | Network and directory enumeration |
+| 🌐 Web Security | Burp Suite | HTTP interception, request analysis, Repeater, Intruder |
+| 📡 Network Analysis | Wireshark | Packet capture and traffic analysis |
+| 💥 Exploitation Labs | Metasploit | Authorized vulnerable-lab testing |
+| 🐧 Operating Systems | Kali Linux, Ubuntu, Windows | Security lab administration |
+| 💻 Scripting | Python, Bash | Security automation and scripting |
 
+### 🔬 Practical Security Labs
+
+- 🛡️ [Burp Suite Web Security Labs](https://github.com/bibash-cybersec/Burp-Suite-Web-Security-Labs)
+- 🔎 Nmap Network Scanning Labs
+- 📡 Wireshark Network Analysis
+- 🧪 OverTheWire Bandit Documentation
+- 🖥️ Cybersecurity Home Lab
 
 ---
 
